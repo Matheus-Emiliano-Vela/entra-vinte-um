@@ -1,4 +1,4 @@
-package br.senac.sc.Basico.POO.Basico.Excecoes;
+package br.senac.sc.Basico.Excecoes;
 
 import java.util.Scanner;
 
