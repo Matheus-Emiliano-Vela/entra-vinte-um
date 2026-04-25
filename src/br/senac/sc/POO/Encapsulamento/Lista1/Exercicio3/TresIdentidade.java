@@ -9,4 +9,8 @@ public class TresIdentidade {
         this.cpf = cpf;
     }
 
+    void aprensentar(){
+        System.out.println("Seu nome é" + this.nome + "e seu CPF é : " + this.cpf);
+    }
+
 }
