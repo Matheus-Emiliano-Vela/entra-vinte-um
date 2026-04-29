@@ -1,4 +1,4 @@
-package br.senac.sc.POO.Encapsulamento;
+package POO.Encapsulamento;
 
 public class Pessoa {
         private String nome;

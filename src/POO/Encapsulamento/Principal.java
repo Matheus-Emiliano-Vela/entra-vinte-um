@@ -1,4 +1,4 @@
-package br.senac.sc.POO.Encapsulamento;
+package POO.Encapsulamento;
 
 public class Principal {
     public static void main(String[] args) {

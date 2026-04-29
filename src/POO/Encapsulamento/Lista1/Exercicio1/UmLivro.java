@@ -1,4 +1,4 @@
-package br.senac.sc.POO.Encapsulamento.Lista1.Exercicio1;
+package POO.Encapsulamento.Lista1.Exercicio1;
 
 public class UmLivro {
     private String autor;

@@ -1,4 +1,4 @@
-package br.senac.sc.POO.Encapsulamento.Lista1.Exercicio2;
+package POO.Encapsulamento.Lista1.Exercicio2;
 
 public class DoisCarro {
     private String marca;

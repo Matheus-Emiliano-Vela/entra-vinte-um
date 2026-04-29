@@ -1,4 +1,4 @@
-package br.senac.sc.POO.Encapsulamento.Exemplo3;
+package POO.Encapsulamento.Exemplo3;
 
 public class Estudante {
     private String matricula;

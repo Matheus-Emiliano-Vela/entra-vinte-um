@@ -1,4 +1,4 @@
-package br.senac.sc.POO.Encapsulamento.Lista1.Exercicio3;
+package POO.Encapsulamento.Lista1.Exercicio3;
 
 public class TresIdentidade {
     private String nome;
