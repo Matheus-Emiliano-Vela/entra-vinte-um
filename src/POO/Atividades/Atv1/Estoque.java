@@ -23,7 +23,7 @@ public class Estoque extends SistemaInventarioProcedural{
         Quantidade = quantidade;
     }
 
-    public void ExibirProdutos(){
+    public static void ExibirProdutos(){
         System.out.println("Produto: " + getNome() + ", Estoque Atual: : "
                 + getQuantidade() + ", Valor de Estoque: " + SomarTotal());
     }
